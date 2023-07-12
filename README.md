@@ -19,15 +19,18 @@ Welcome to the Bada Parda repository! Bada Parda is a comprehensive MOVIE and TV
 To get started with Bada Parda, follow these steps:
 
 1. Clone the repository using the following command:
+```
 git clone https://github.com/durgaprasad-sahoo/badaparda.git
-
-2. Navigate to the project directory:
+```
+3. Navigate to the project directory:
+```
 cd badaparda
-
-3. Install the necessary dependencies:
+```
+4. Install the necessary dependencies:
+```
 npm install
-
-4. Start the application:
+```
+5. Start the application:
 npm start
 
 The application will be accessible at `http://localhost:5174`.
