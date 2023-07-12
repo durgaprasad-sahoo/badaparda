@@ -1,6 +1,6 @@
 # Bada Parda (Big Screen) - Movie and TV Series Review Site
 
-Link to the site:  [www.bada](https://badaparda.vercel.app/)
+Link to the site:  [www.badaparda.vercel.app](https://badaparda.vercel.app/)
 
 Welcome to the Bada Parda repository! Bada Parda is a comprehensive MOVIE and TV review site that offers a wide range of features to enhance your movie and TV series viewing experience.
 
